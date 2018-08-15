@@ -1,0 +1,4 @@
+﻿  Prog4Main.cpp
+c:\users\ryan\desktop\cs221 r.coleman programs\program1\program1cs221\prog4main.cpp(149): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\ryan\desktop\cs221 r.coleman programs\program1\program1cs221\prog4main.cpp(170): warning C4101: 'i': unreferenced local variable
+  Program1CS221.vcxproj -> C:\Users\ryan\Desktop\CS221 R.Coleman Programs\Program1\Program1CS221\Debug\Program1CS221.exe
